@@ -2,6 +2,7 @@ title: "ahouiのつくりかた"
 summary: "ahoui誕生備忘録とUIライブラリを作りたいと思った人のための本です。"
 topics: []
 published: false
+allow_override: true
 price: 0
 toc_depth: 2
 chapters:
@@ -10,4 +11,3 @@ chapters:
   - "f5fd7b"
   - "56250e"
   - "d2def4"
-allow_overview: true
