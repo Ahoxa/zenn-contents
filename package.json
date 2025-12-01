@@ -3,6 +3,11 @@
   "module": "index.ts",
   "type": "module",
   "private": true,
+  "scripts": {
+    "preview": "bunx zenn preview",
+    "article": "bunx zenn new:article",
+    "book": "bunx zenn new:book"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
