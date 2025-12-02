@@ -5,8 +5,8 @@
   "private": true,
   "scripts": {
     "preview": "bunx zenn preview",
-    "article": "bunx zenn new:article",
-    "book": "bunx zenn new:book"
+    "article": "bun scripts/new-article.ts",
+    "book": "bun scripts/new-book.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"
