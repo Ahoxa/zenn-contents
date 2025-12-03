@@ -4,7 +4,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "preview": "bunx zenn preview",
+    "pv": "bunx zenn preview",
     "lint": "textlint -f pretty-error 'articles/**/*.md'",
     "fix": "textlint --fix 'articles/**/*.md'",
     "spell": "cspell 'articles/**/*.md'",
