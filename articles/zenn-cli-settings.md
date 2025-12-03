@@ -3,7 +3,8 @@ title: "オレ流最強のローカル記事執筆環境構築方法"
 emoji: "✒️"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["zenncli", "textlint", "markdownlint", "cspell", "記事執筆"]
-published: false
+published: true
+published_at: 2025-12-08 10:00
 publication_name: "hrbrain"
 ---
 
