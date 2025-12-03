@@ -184,7 +184,7 @@ module.exports = {
 ## CI (GitHub Actions)
 
 ~~正直いらないけど~~ Pull Request作成時やmainブランチへのプッシュ時に、自動でLintを実行するようにしています。
-私はBun信者なのでBunを使っていますが、皆さんの好みのランタイムで実行してください。
+私はBun信者なのでBunを使っていますが、皆さんお好みのランタイムで実行してください。
 
 ```yaml:.github/workflows/lint.yml
 name: lint
