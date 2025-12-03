@@ -79,7 +79,7 @@ const code = await proc.exited;
 process.exit(code);
 ```
 
-`package.json` に以下のように登録し、`bun run article <slug> [title]` で実行できます。
+`package.json` に以下のように登録し、`bun run article zenn-sample-article "sample title"` で実行できます。
 
 ```json
 "scripts": {
