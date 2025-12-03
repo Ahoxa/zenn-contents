@@ -4,5 +4,15 @@ module.exports = {
   language: "en,ja",
   files: ["articles/**/*.md"],
   ignorePaths: ["node_modules", "dist"],
-  words: ["Zenn", "textlint", "zenncli", "Ahoxa", "reacthooks", "hrbrain"],
+  words: [
+    "Zenn",
+    "textlint",
+    "zenncli",
+    "Ahoxa",
+    "reacthooks",
+    "hrbrain",
+    "bunx",
+    "mdlint",
+    "textlintrc",
+  ],
 };
