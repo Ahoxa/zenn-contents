@@ -13,6 +13,7 @@ module.exports = {
     "hrbrain",
     "bunx",
     "mdlint",
+    "mdfix",
     "textlintrc",
   ],
 };

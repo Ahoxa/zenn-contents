@@ -6,9 +6,10 @@
   "scripts": {
     "pv": "bunx zenn preview",
     "lint": "textlint -f pretty-error 'articles/**/*.md'",
-    "fix": "textlint --fix 'articles/**/*.md'",
+    "tfix": "textlint --fix 'articles/**/*.md'",
     "spell": "cspell 'articles/**/*.md'",
     "mdlint": "markdownlint-cli2 'articles/**/*.md'",
+    "mdfix": "markdownlint-cli2-fix 'articles/**/*.md'",
     "lint:all": "bun run lint && bun run spell && bun run mdlint",
     "article": "bun scripts/new-article.ts",
     "book": "bun scripts/new-book.ts"
