@@ -12,6 +12,9 @@ publication_name: "hrbrain"
 僕は！**技術記事！書いてません！**
 そんな形から入る三日坊主の私が形から入ってはまってしまったローカル記事執筆環境の中身をご照覧あれ。[^1]
 
+私の最強リポジトリはこちら
+https://github.com/Ahoxa/zenn-contents
+
 [^1]: ご照覧あれい！https://kamikouryaku.net/eldenring/?%E3%81%94%E7%85%A7%E8%A6%A7%E3%81%82%E3%82%8C%E3%81%84%EF%BC%81
 
 ## 前提
