@@ -5,7 +5,7 @@ type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["zenncli", "textlint", "markdownlint", "cspell", "記事執筆"]
 published: true
 published_at: 2025-12-08 10:00
-publication_name: "hrbraain"
+publication_name: "hrbrain"
 ---
 
 みなさん！技術記事！書いてますか！
