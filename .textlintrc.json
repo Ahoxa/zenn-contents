@@ -1,0 +1,29 @@
+{
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "preset-ja-technical-writing": {
+      "no-exclamation-question-mark": false,
+      "max-kanji-continuous-len": {
+        "max": 8
+      },
+      "sentence-length": {
+        "max": 120
+      },
+      "ja-no-weak-phrase": false
+    },
+    "preset-ja-spacing": {
+      "ja-space-around-code": {
+        "before": true,
+        "after": true
+      },
+      "ja-no-space-around-full-width": true,
+      "ja-no-space-around-parentheses": true,
+      "filters": {
+        "comments": true
+      }
+    }
+  }
+}
+
