@@ -100,7 +100,7 @@ process.exit(code);
 ```json:package.json
 {
   "scripts": {
-    "lint": "textlint -f pretty-error 'articles/**/*.md'",
+    "tlint": "textlint -f pretty-error 'articles/**/*.md'",
     "tfix": "textlint --fix 'articles/**/*.md'",
     "spell": "cspell 'articles/**/*.md'",
     "mdlint": "markdownlint-cli2 'articles/**/*.md'",
