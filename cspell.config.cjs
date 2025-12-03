@@ -14,6 +14,7 @@ module.exports = {
     "bunx",
     "mdlint",
     "mdfix",
+    "tfix",
     "textlintrc",
   ],
 };
